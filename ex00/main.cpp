@@ -38,7 +38,7 @@ int main() {
         std::deque<int> deq;
         deq.push_back(5);
         deq.push_back(6);
-        deq.push_back(7);
+        deq.push_back(4);
 
         std::deque<int>::iterator it = easyfind(deq, 7);
 
